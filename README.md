@@ -2,7 +2,7 @@
 
 > Licenciando em Computação - 7° Período 💻
 > Desenvolvedor e Apaixonado por Programação ❤
-> Que a força esteja com você! 👽
+ Que a força esteja com você! 👽
 
 <!--
 **LuuizAlves/LuuizAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
