@@ -11,6 +11,8 @@
 
 ### Estatísticas
 
+<img align='left' alt="LuuizALves's Stats" src="https://github-readme-stats.vercel.app/api?username=LuuizAlves&show_icons=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/LuuizAlves=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/apiLuuizAlves=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
