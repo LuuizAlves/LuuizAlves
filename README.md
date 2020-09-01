@@ -19,10 +19,10 @@
 <img alt="LuuizALves's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizAlves&layout=compact" />
 
 ### Contato
-<a href="https://www.linkedin.com/in/luiz-felipe-672803142/" target="_blank">
+<a href="https://www.linkedin.com/in/luiz-felipe-672803142/" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/alves_luuiz/" target="_blank">
+<a href="https://www.instagram.com/alves_luuiz/" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
