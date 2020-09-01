@@ -6,7 +6,17 @@
 
 
 ### Contato
-<a href="https://www.linkedin.com/in/luiz-felipe-672803142/"> <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+
+<a href="https://www.linkedin.com/in/luiz-felipe-672803142/" target="_blank">
+  <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/alves_luuiz/" target="_blank">
+  <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
 
 ### Skills
 
@@ -18,6 +28,7 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
+<br />
 <br />
 
 ### Estatísticas
