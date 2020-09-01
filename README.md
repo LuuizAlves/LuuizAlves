@@ -14,11 +14,11 @@
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <br />
 
-### Linguagens
+### Lenguages
 
 <img alt="LuuizALves's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuuizAlves&layout=compact" />
 
-### Contato
+### Contact
 <a href="https://www.linkedin.com/in/luiz-felipe-672803142/" target="_blank" >
   <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
