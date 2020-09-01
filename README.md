@@ -6,7 +6,7 @@
 
 
 ### Contato
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/feed/saved/]
+<a href="https://www.linkedin.com/in/luiz-felipe-672803142/"> <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 
 ### Skills
 
