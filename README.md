@@ -1,6 +1,6 @@
 ### Heeello World 👽🚀
 - 💻Licenciando em Computação - 7° Período 
-- ❤ Desenvolvedor e Apaixonado por Programação 
+- 🚀 Desenvolvedor e Apaixonado por Programação 
 - 👽 Que a força esteja com você!
 
 ### Skills
