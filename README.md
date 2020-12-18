@@ -1,5 +1,5 @@
 ### Heeello World 👽🚀
-- 💻Licenciando em Computação - 7° Período 
+- 💻Licenciando em Computação - 8° Período 
 - 🚀 Desenvolvedor e Apaixonado por Programação 
 - 👽 Que a força esteja com você!
 
