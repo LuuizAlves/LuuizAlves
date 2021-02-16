@@ -1,4 +1,4 @@
-### Heeello World 👽🚀
+### Heeello World 🌎🪐
 - 💻Computer Studant - 8th semester 
 - 🚀Developer and Passionate about Programming!
 - 👽May the Force be With You!
