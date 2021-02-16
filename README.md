@@ -1,7 +1,7 @@
 ### Heeello World 👽🚀
-- 💻Licenciando em Computação - 8° Período 
-- 🚀 Desenvolvedor e Apaixonado por Programação 
-- 👽 Que a força esteja com você!
+- 💻Computer Studant - 8th semester 
+- 🚀 Developer and Passionate about Programming!
+- 👽 May the Force be With You!
 
 ### Skills
 
