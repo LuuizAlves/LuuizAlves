@@ -1,6 +1,6 @@
 ### Heeello World 🌎🪐
-- 💻 Computer Studant 
-- 🚀 Developer and Passionate about Programming
+- 💻 Computer Studant!
+- 🚀 Developer and Passionate about Programming!
 - 👽 May the Force be With You!
 
 ### Skills
