@@ -1,7 +1,7 @@
 ### Heeello World 🌎🪐
-- 💻 Computer Studant!
-- 🚀 Developer and Passionate about Programming!
-- 👽 May the Force be With You!
+- 💻 Computer Studant!!
+- 🚀 Developer and Passionate about Programming!!
+- 👽 May the Force be With You!!
 
 ### Skills
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
