@@ -1,5 +1,5 @@
 ### Heeello World 🌎🪐
-- 💻 Computer Studant!!!
+- 💻 Computer Degree!!!
 - 🚀 Developer and Passionate about Programming!!
 - 👽 May the Force be With You!!
 
